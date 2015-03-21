@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  subtitle: MyString
+  description: MyString
+  date: 2015-03-21
+  start_time: 2015-03-21 02:37:41
+  end_time: 2015-03-21 02:37:41
+  type: 
+  recurring: MyString
+  full_flyer: MyString
+  owner_id: 
+
+two:
+  name: MyString
+  subtitle: MyString
+  description: MyString
+  date: 2015-03-21
+  start_time: 2015-03-21 02:37:41
+  end_time: 2015-03-21 02:37:41
+  type: 
+  recurring: MyString
+  full_flyer: MyString
+  owner_id: 
